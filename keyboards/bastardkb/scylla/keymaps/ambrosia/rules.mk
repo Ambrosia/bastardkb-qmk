@@ -1,0 +1,4 @@
+MOUSEKEY_ENABLE = yes        # Mouse keys
+KEY_OVERRIDE_ENABLE = yes
+CAPS_WORD_ENABLE = yes
+TAP_DANCE_ENABLE = yes
